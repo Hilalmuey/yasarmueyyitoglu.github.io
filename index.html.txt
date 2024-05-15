@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yaşar Müeyyitoğlu Avukatlık Bürosu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: #666;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Yaşar Müeyyitoğlu Avukatlık Bürosu</h1>
+</header>
+
+<nav>
+    <a href="#hakkimda">Hakkımda</a>
+    <a href="#hizmetler">Hizmetlerimiz</a>
+    <a href="#iletisim">İletişim</a>
+</nav>
+
+<section id="hakkimda">
+    <h2>Hakkımda</h2>
+    <p>Ben Yaşar Müeyyitoğlu. Avukatlık mesleğini uzun yıllardır sürdürmekteyim. Sizlere hukuki danışmanlık hizmeti sunmaktan memnuniyet duyarım.</p>
+</section>
+
+<section id="hizmetler">
+    <h2>Hizmetlerimiz</h2>
+    <p> - Ceza Hukuku</p>
+    <p> - Aile Hukuku</p>
+    <p> - Ticaret Hukuku</p>
+    <p> - İş Hukuku</p>
+    <p> - Gayrimenkul Hukuku</p>
+    <p> - Şirketler Hukuku</p>
+</section>
+
+<section id="iletisim">
+    <h2>İletişim</h2>
+    <p>Adres: Örnek Mahallesi, Örnek Sokak No: 123, Örnek İl, Türkiye</p>
+    <p>Telefon: 0XX XXX XX XX</p>
+    <p>E-posta: info@yasaravukat.com</p>
+</section>
+
+<footer>
+    <p>© 2024 Yaşar Müeyyitoğlu Avukatlık Bürosu</p>
+</footer>
+
+</body>
+</html>
